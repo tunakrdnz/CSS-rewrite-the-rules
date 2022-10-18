@@ -1,0 +1,16 @@
+
+:root {
+        background-color: black;
+        color: black;
+        font-weight: bold;
+}
+
+
+
+.ball {
+    background-color: #ff8800;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    
+}
